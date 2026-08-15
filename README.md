@@ -9,7 +9,7 @@ I build game engines and the systems underneath them — rendering, scripting, a
 <!-- Landscape image -->
 
 <p align="center">
-  <img src="[LANDSCAPE_IMAGE_URL](https://upload.wikimedia.org/wikipedia/commons/9/99/Alexander_the_Great_in_the_Temple_of_Jerusalem.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)" width="100%" />
+  <img src="assets/profile.jpg" />
 </p>
 
 ---

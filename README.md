@@ -1,16 +1,17 @@
-## Hi there 👋
+# yugcore
 
-<!--
-**yugcore/yugcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build game engines from the ground up, including the rendering, scripting, and gameplay systems underneath them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+C++ · Rust · Assembly · Java · Python
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [ZeGFX-Engine](https://github.com/yugcore/ZeGFX-Engine) | Game engine forked from Godot, focused on stylized visuals and fast iteration |
+| [BluemanEngine](https://github.com/yugcore/BluemanEngine) | Combat-focused engine built around state-driven, validation-first gameplay logic |
+| [Priority-Search-Algorithm](https://github.com/yugcore/Priority-Search-Algorithm) | Exact Traveling Salesman Problem solver written in standard C++ |

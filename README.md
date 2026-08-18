@@ -6,14 +6,6 @@ I build game engines and the systems underneath them — rendering, scripting, a
 
 ---
 
-<!-- Landscape image -->
-
-<p align="center">
-  <img src="assets/profile.jpg" />
-</p>
-
----
-
 ## Currently Building
 
 **[ZeGFX-Engine](https://github.com/yugcore/ZeGFX-Engine)**
